@@ -33,3 +33,8 @@ Please note that this is a more curated list relevant to my current research.
 - pandas-datareader - Python module to get data from various sources (Google Finance, Yahoo Finance, FRED, OECD, Fama/French, World Bank, - - - Eurostat...) into Pandas datastructures such as DataFrame, Panel with a caching mechanism.
 - pandas-finance - High level API for access to and analysis of financial data.
 - thetadata - API host for options data
+
+### Other Githubs
+- [Russs123](https://github.com/russs123)
+- [Letianzj](https://github.com/letianzj/QuantResearch)
+- [GoldinLocks](https://github.com/GoldinLocks/Quant-Research)
