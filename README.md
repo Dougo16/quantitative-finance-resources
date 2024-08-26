@@ -38,3 +38,4 @@ Please note that this is a more curated list relevant to my current research.
 - [Russs123](https://github.com/russs123)
 - [Letianzj](https://github.com/letianzj/QuantResearch)
 - [GoldinLocks](https://github.com/GoldinLocks/Quant-Research)
+- [Ai Financial Analysis](https://github.com/austin-starks/AI-Financial-Analysis)
